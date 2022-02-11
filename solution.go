@@ -1,5 +1,5 @@
 package main
 func GetMessage() string {
-	return "Hello 🗺️!"
+	return "Hello 🗺️ !"
 }
 
