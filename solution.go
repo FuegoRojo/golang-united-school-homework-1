@@ -1,5 +1,5 @@
-package solution
-
+package main
 func GetMessage() string {
-	return ""
+	return "Hello 🗺️ !"
 }
+
